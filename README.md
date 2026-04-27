@@ -1,4 +1,18 @@
-## Hi there 👋
+# 👋Hey I'm Raymond.
+
+## Software engineer with the utmost urge to be successful.
+
+I specialize in builidng backend applications .
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **Raymond-dev1/Raymond-dev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
