@@ -13,8 +13,25 @@
 ---
 
 ## Projects - showcase
-- Reminder app
-- Receipt generator 
+
+### Booking app
+Multi-tenant booking system,connecting service providers to clients, with staff assignment feature for service delegation ease.
+
+[View Project →](https://github.com/Raymond-dev1/booking-app)
+
+---
+
+### SparkClean
+Premium cleaning service provider with automatic ledger reconcilation, integrated with onepipe's PayWithAccount service.
+
+[View Project →](https://github.com/Raymond-dev1/sparkclean)
+
+---
+
+### Receipt generator 
+Asynchronous processing system utilizing background jobs for mail delivery and receipt creation . 
+
+[View Project →](https://github.com/Raymond-dev1/Receipt-Generator)
 
 ---
 
@@ -24,7 +41,6 @@
 ---
 
 ## Links
-- [**Portfolio**](https://raymond-dev1.netlify.app/)
 - [**Contact**](mailto:iziogbaraymond72@gmail.com)
 
 <a href="https://x.com/RIziogba25971" target="blank">
