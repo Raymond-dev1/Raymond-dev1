@@ -8,7 +8,7 @@
 - Led engineering team on a rental platform.
 
 ## Skill Stack
-[![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,ts,docker,github,redis,tailwind,gcp,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,ts,js,docker,github,redis,tailwind,gcp,react,prisma,vscode&theme=light)](https://skillicons.dev)
 
 ---
 
