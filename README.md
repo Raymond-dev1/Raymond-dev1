@@ -3,8 +3,8 @@
 **`Software Engineer`** 
 
 ## About me
-- Always curious about new ideas.
 - An individual with the utmost urge to be successful.
+- I explore capabilities beyond social constructs.
 - Led engineering team on a rental platform.
 
 ## Skill Stack
