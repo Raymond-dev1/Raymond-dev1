@@ -7,11 +7,6 @@
 - I explore capabilities beyond social constructs.
 - Led engineering team on a rental platform.
 
-## Skill Stack
-[![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,ts,js,docker,github,redis,tailwind,gcp,react,prisma,vscode&theme=light)](https://skillicons.dev)
-
----
-
 ## Projects - showcase
 
 ### Booking app
