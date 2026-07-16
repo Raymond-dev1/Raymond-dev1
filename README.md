@@ -35,12 +35,4 @@ Asynchronous processing system utilizing background jobs for mail delivery and r
 
 ---
 
-## Links
-- [**Contact**](mailto:iziogbaraymond72@gmail.com)
-
-<a href="https://x.com/RIziogba25971" target="blank">
-  <img src="https://skillicons.dev/icons?i=twitter" alt="Instagram" />
-</a>
-
-
 
