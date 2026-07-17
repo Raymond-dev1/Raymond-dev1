@@ -9,6 +9,13 @@
 
 ## Projects - showcase
 
+### Vouch 
+Frictionless, account-less escrow infrastructure securing social commerce transactions via the Nomba API.
+
+[View Project →](https://https://github.com/vouch01/vouch)
+
+---
+
 ### Booking app
 Multi-tenant booking system,connecting service providers to clients, with staff assignment feature for service delegation ease.
 
@@ -20,13 +27,6 @@ Multi-tenant booking system,connecting service providers to clients, with staff 
 Premium cleaning service provider with automatic ledger reconcilation, integrated with onepipe's PayWithAccount service.
 
 [View Project →](https://github.com/Raymond-dev1/sparkclean)
-
----
-
-### Receipt generator 
-Asynchronous processing system utilizing background jobs for mail delivery and receipt creation . 
-
-[View Project →](https://github.com/Raymond-dev1/Receipt-Generator)
 
 ---
 
