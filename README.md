@@ -30,6 +30,11 @@ Premium cleaning service provider with automatic ledger reconcilation, integrate
 
 ---
 
+## Resume
+[Raymond's resume →]( https://ik.imagekit.io/4wxtrbyyf/Raymond_iziogba_SWE_resume.pdf)
+
+---
+
 ## Stats
 ![Raymond's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raymond-dev1&hide=stars,issues&show_icons=true&theme=gruvbox)
 
