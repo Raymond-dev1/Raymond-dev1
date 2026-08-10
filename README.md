@@ -3,9 +3,19 @@
 **`Software Engineer`** 
 
 ## About me
-- An individual with the utmost urge to be successful.
-- I explore capabilities beyond social constructs.
-- Led engineering team on a rental platform.
+Hi there, I'm Raymond.
+I help bridge the divide between ideation and execution in software development cycle, while ensuring cross-team communication.
+
+
+
+I'm passionate about building quality product with technologies that positively impacts everyday lives.
+I'm also known for my critical thinking to break down complex problems and features into clear and simple solutions.
+
+Whenever I feel unsure about a concept , I build a side project to fully understand.
+Whether you just found me or revisiting, you can check out some of my spotlighted project and please feel free to say hi [find my Email by your left]
+
+
+Yeah, I am open to opportunities, still unsure? find below my sheet of treasures (My resume🙂)
 
 ## Projects - showcase
 
