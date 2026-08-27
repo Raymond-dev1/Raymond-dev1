@@ -41,7 +41,7 @@ Premium cleaning service provider with automatic ledger reconcilation, integrate
 ---
 
 ## Resume
-[Raymond's resume →]( https://ik.imagekit.io/4wxtrbyyf/Raymond_iziogba_SWE_resume.pdf)
+[Raymond's resume →](https://ik.imagekit.io/4wxtrbyyf/Raymond_iziogba_SWE_resume%20(1)_w--i6YbmH.pdf)
 
 ---
 
