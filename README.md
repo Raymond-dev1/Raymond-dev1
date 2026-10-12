@@ -22,7 +22,7 @@ Yeah, I am open to opportunities, still unsure? find below my sheet of treasures
 ### Vouch 
 Frictionless, account-less escrow infrastructure securing social commerce transactions via the Nomba API.
 
-[View Project →](https://https://github.com/vouch01/vouch)
+[View Project →](https://github.com/vouch01/vouch)
 
 ---
 
